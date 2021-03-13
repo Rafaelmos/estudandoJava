@@ -1,0 +1,3 @@
+Linguagem de Tipagem forte e estática
+Linguagem Compilada 
+Precisa de JVM
